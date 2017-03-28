@@ -24,3 +24,5 @@ meteor
 fourseven:scss
 jquery
 materialize:materialize
+accounts-ui
+accounts-password
